@@ -1,0 +1,10 @@
+C:\Users\KimDoHoon\Desktop\C++_Project\XDOtoGLTF2\XDOtoGLTF2\bin\Debug\XDOtoGLTF2.exe.config
+C:\Users\KimDoHoon\Desktop\C++_Project\XDOtoGLTF2\XDOtoGLTF2\bin\Debug\XDOtoGLTF2.exe
+C:\Users\KimDoHoon\Desktop\C++_Project\XDOtoGLTF2\XDOtoGLTF2\bin\Debug\XDOtoGLTF2.pdb
+C:\Users\KimDoHoon\Desktop\C++_Project\XDOtoGLTF2\XDOtoGLTF2\bin\Debug\UnityEngine.dll
+C:\Users\KimDoHoon\Desktop\C++_Project\XDOtoGLTF2\XDOtoGLTF2\obj\Debug\XDOtoGLTF2.csprojResolveAssemblyReference.cache
+C:\Users\KimDoHoon\Desktop\C++_Project\XDOtoGLTF2\XDOtoGLTF2\obj\Debug\XDOtoGLTF2.exe
+C:\Users\KimDoHoon\Desktop\C++_Project\XDOtoGLTF2\XDOtoGLTF2\obj\Debug\XDOtoGLTF2.pdb
+C:\Users\KimDoHoon\Desktop\C++_Project\XDOtoGLTF2\XDOtoGLTF2\bin\Debug\Zoltu.EndianAwareBinaryReaderWriter.dll
+C:\Users\KimDoHoon\Desktop\C++_Project\XDOtoGLTF2\XDOtoGLTF2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\KimDoHoon\Desktop\C++_Project\XDOtoGLTF2\XDOtoGLTF2\bin\Debug\Newtonsoft.Json.xml
